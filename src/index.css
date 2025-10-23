@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -18,7 +18,7 @@
     --primary: 48 100% 59%;
     --primary-foreground: 215 25% 12%;
 
-    --secondary: 215 25% 12%;
+    --secondary: 220 40% 8%;
     --secondary-foreground: 0 0% 100%;
 
     --muted: 210 40% 96.1%;
